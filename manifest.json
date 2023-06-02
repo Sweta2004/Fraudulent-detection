@@ -1,0 +1,10 @@
+{
+  "name": "fraud ext",
+  "description": "help u to prevent from frauds",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "fraud.png"
+  }
+}
